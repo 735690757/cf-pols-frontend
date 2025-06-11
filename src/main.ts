@@ -25,3 +25,4 @@ app
     .use(ElementPlus)
     .use(createPinia().use(piniaPluginPersistedstate))
     .mount('#app')
+// ----------------
